@@ -4,6 +4,7 @@ total without marks/
 _MACOSX/
 Control with mark/
 Control without mark/
+yolo_dataset/
 
 #Files
 *.csv
