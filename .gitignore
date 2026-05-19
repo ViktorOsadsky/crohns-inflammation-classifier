@@ -1,3 +1,13 @@
+# Folders
+total with marks/
+total without marks/
+_MACOSX/
+Control with mark/
+Control without mark/
+
+#Files
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
