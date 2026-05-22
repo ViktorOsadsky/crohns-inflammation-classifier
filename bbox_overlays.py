@@ -4,8 +4,8 @@ import csv
 import matplotlib.pyplot as plt
 
 
-img_folder = "total with marks/total with marks/"
-csv_file = "bboxes.csv"
+img_folder = "Control without mark"
+csv_file = "extractedbboxes.csv"
 
 annotations = {}
 
